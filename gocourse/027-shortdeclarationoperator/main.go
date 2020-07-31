@@ -23,4 +23,6 @@ func main() {
 	fmt.Println( "أحمد" )
 
 	printLocalVariables()
+
+	experimentWithTypes()
 }
